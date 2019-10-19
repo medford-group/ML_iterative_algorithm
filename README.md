@@ -8,5 +8,4 @@ This algorithm was further used to predicting the phase diagrams.
 The coulomb matrix only works for the molecules.
 
 ##### Note
-* If using the script to predict the adsorption energy, you need to change some values, such as x-ticks and y-ticks.
-* Other parameters have been introduced in the scripts, accordingly, some parameters should be chaged when useing it.
+* The parameters have been introduced in the scripts, accordingly, some parameters should be chaged when using it.
