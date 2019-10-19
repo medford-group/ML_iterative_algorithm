@@ -1,0 +1,2 @@
+The numer of unique structures are:11
+New information:
