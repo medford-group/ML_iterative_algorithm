@@ -9,3 +9,6 @@ The coulomb matrix only works for the molecules.
 
 ##### Note
 * The parameters have been introduced in the scripts, accordingly, some parameters should be chaged when using it.
+
+##### Email
+More questions: lfzxsx@126.com
