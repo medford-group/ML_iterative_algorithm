@@ -20,7 +20,7 @@ The *Iteration\*.py*  files are in the folder of *Iteration_I_AdsorptionE* , all
 
 1. Max predicted error: a parameter to control the accuracy and number of DFT calculations. 
 
-   <div align=center>![ML algorithm] (https://github.com/medford-group/ML_iterative_algorithm/blob/master/Iteration_I_AdsorptionE/example/ML_algorithm_1.png)
+   <div align=center>![ML algorithm] (ML_algorithm_1.png)
 
 ##### Iterative algorithm for finding the low-energy structure
 
@@ -35,6 +35,8 @@ The example is constructing the phase diagrams including ML phase diagrams and D
 ###### Note
 
 The *data* folder includes the structure file (*.cif*) and python script files.
+
+Paper: Scalable approach to high coverages on oxides via iterative training of a machine-learning algorithm (ChemCatChem)
 
 ###### Email
 
