@@ -16,9 +16,11 @@ The *extractDos.py* file is in the path of */data/scripts_py.zip*, this file is 
 
 ##### Iterative algorithm for looking for the valuable training set
 
-The *Iteration\*.py*  files are in the folder of *Iteration_I_AdsorptionE* , all these scripts work for training process. We also show an example in this folder. ($python run_test.py).
+The *Iteration\*.py*  files are in the folder of *Iteration_I_AdsorptionE* , all these scripts work for training process. We also show an example in this folder. 
 
 1. Max predicted error: a parameter to control the accuracy and number of DFT calculations. 
+
+2. $python run_test.py
 
    <img src="ML_algorithm_1.png" width="50%"  div align=center>
 
