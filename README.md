@@ -20,7 +20,7 @@ The *Iteration\*.py*  files are in the folder of *Iteration_I_AdsorptionE* , all
 
 1. Max predicted error: a parameter to control the accuracy and number of DFT calculations. 
 
-   <div align=center>![ML algorithm] (ML_algorithm_1.png)
+   <img src="ML_algorithm_1.png" width="50%">
 
 ##### Iterative algorithm for finding the low-energy structure
 
